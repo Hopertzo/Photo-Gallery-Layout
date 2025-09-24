@@ -23,7 +23,7 @@ Specifically, this project covers:
 ---
 
 Check out the live version here:  
- [Photo Gallery on GitHub Pages](https://YOUR_USERNAME.github.io/Photo-Gallery/)
+ [Photo Gallery on GitHub Pages](https://hopertzo.github.io/Photo-Gallery-Layout/)
 
 ## Author
 

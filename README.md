@@ -29,4 +29,4 @@ Check out the live version here:
 
 Justine Ngulwa.
 
--Passionate about learning and applying modern CSS layout techniques (Grid + Flexbox).
+- Passionate about learning and applying modern CSS layout techniques (Grid + Flexbox).
